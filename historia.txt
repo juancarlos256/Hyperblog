@@ -2,4 +2,6 @@ Resumen de la clase:
 
 Empieza a usar TS desde ahora en todos tus proyectos, reduce como mínimo 15% de bugs.
 
+Master 1
+
 y ahora de actualizar el repositorio en git
